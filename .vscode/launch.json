@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MusicPlayer",
+            "request": "launch",
+            "mainClass": "MusicPlayer",
+            "projectName": "MusicPlayer_3878c78e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path C:/javafx-sdk-21/lib --add-modules javafx.controls,javafx.media"
+        }
+    ]
+}
