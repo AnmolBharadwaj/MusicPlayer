@@ -5,7 +5,6 @@ A simple and stylish music player built using JavaFX.
 ## Features
 - Play, pause, stop, and skip songs.
 - Volume control.
-- Modern UI with CSS styling.
 - Supports `.mp3` files.
 
 ## Requirements
